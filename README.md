@@ -17,7 +17,7 @@ Company wants to automate the loan eligibility process (real time) based on cust
 7. ApplicantIncome - Applicant income
 8. CoapplicantIncome - Coapplicant income
 9. LoanAmount - Loan amount in thousands
-10.Loan_Amount_Term - Term of loan in months
-11.Credit_History - credit history meets guidelines
-12.Property_Area - Urban/ Semi Urban/ Rural
-13.Loan_Status - Loan approved (Y/N)
+10. Loan_Amount_Term - Term of loan in months
+11. Credit_History - credit history meets guidelines
+12. Property_Area - Urban/ Semi Urban/ Rural
+13. Loan_Status - Loan approved (Y/N)
